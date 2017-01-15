@@ -1,0 +1,15 @@
+body{
+	background-color: #000;
+	color: #fff;
+}
+
+div{
+	margin: auto;
+	text-align: center;
+	border:2px solid #fff;
+	/*margin-top: 5%;*/
+}
+
+hr {
+	color: #fff !important;
+}
